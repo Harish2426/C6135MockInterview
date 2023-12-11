@@ -30,3 +30,9 @@ public class Mock3 {
 	        scanner.close();
 	    }
 	}
+Output :
+Enter the number of rows for the right-angled triangle: 4
+ *
+ * *
+ * * *
+ * * * *
