@@ -21,6 +21,9 @@ public class Mock2{
 		{
 			System.out.println("strings are not anagram");
 		}
+
+		Output : 
+		strings are anagram
 		
 	}
 }
