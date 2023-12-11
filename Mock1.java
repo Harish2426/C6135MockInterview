@@ -28,3 +28,5 @@ public class Mock1 {
 		        System.out.println("Duplicate elements in the array are: " + duplicate);
 		    }
 		}
+Output : Duplicate elements in the array are: [2, 3, 7]
+	
