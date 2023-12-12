@@ -1,5 +1,6 @@
 package Jdbc;
 import java.util.*;
+//2. Write a Java function to check if two strings are anagrams of each other.
 public class Mock2{
 	public static void main (String args[]) {
 		Scanner sc = new Scanner(System.in);
